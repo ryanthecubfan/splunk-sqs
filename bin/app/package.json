@@ -1,0 +1,11 @@
+{
+    "name": "splunk-sqs",
+    "version": "0.0.1",
+    "description": "Splunk modular input for generating events from SQS",
+    "main": "splunk-sqs.js",
+    "dependencies": {
+        "splunk-sdk": ">=1.4.0",
+        "aws-sqs": "*"
+    },
+    "author": "Getty Images"
+}
